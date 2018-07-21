@@ -1,0 +1,24 @@
+{
+  "name": "GO Node - DESAFIO 1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vitorhidalgo/rocketseat-gonode-m1-desafio.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vitorhidalgo/rocketseat-gonode-m1-desafio/issues"
+  },
+  "homepage": "https://github.com/vitorhidalgo/rocketseat-gonode-m1-desafio#readme",
+  "dependencies": {
+    "eslint": "^5.1.0",
+    "eslint-config-airbnb-base": "^13.0.0",
+    "eslint-plugin-import": "^2.13.0"
+  }
+}
