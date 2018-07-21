@@ -10,15 +10,19 @@
     "type": "git",
     "url": "git+https://github.com/vitorhidalgo/rocketseat-gonode-m1-desafio.git"
   },
-  "author": "",
+  "author": "Vitor Hidalgo <vitor.hidalgo@gmail.com>",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/vitorhidalgo/rocketseat-gonode-m1-desafio/issues"
   },
   "homepage": "https://github.com/vitorhidalgo/rocketseat-gonode-m1-desafio#readme",
   "dependencies": {
+    "body-parser": "^1.18.3",
     "eslint": "^5.1.0",
     "eslint-config-airbnb-base": "^13.0.0",
-    "eslint-plugin-import": "^2.13.0"
+    "eslint-plugin-import": "^2.13.0",
+    "express": "^4.16.3",
+    "moment": "^2.22.2",
+    "nunjucks": "^3.1.3"
   }
 }
